@@ -113,4 +113,4 @@ Presentación basada 100% en el informe EV3 y códigos reales de ENSSEX.
 
 ---
 
-### Repositorio: https://osc-jav-bas.github.io/EV3_MDD/
+### Repositorio: https://Bastian-Gonzalez-Biomedico.github.io/EV3_MDD/
